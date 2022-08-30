@@ -1,0 +1,20 @@
+@media (min-width:410px) and (max-width:500px) {
+  .up {
+    top: 11vh;
+    width: 125%;
+    height: 12%;
+    left: 7%;
+    font-size: 1.9em;
+    position: absolute;
+    display: flex;
+    justify-content: space-around;
+    cursor: url(../images/cursorpointer.svg), auto;
+}
+
+.logo_main{
+  position: absolute;
+  left: 40%;
+}
+
+
+}
